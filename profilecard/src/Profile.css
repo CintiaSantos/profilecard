@@ -3,6 +3,7 @@
   max-width: 300px;
   margin: auto;
   text-align: center;
+  background-color: aliceblue;
 }
 
 .title {
@@ -19,4 +20,8 @@ button {
   display: flex;
   justify-content: center;
   flex-direction: column;
+}
+
+body {
+  background-color: aquamarine;
 }
